@@ -3,13 +3,3 @@ pandas
 scikit-learn
 streamlit
 opencv-python
-
-cv2
-
-sklearn.ensemble R
-andomForestRegressor
- os
-tempfile
-sklearn.model_selection 
-train_test_split
-uuid  
