@@ -98,7 +98,7 @@ def main():
  
     if st.button("Return to Home"):
         st.markdown(
-            f'<a href="http://127.0.0.1:5500/home/index.html" target="_self"><button>Go to Home Page</button></a>',
+            f'<a href="index.html" target="_self"><button>Go to Home Page</button></a>',
             unsafe_allow_html=True
         )
 
