@@ -1,5 +1,4 @@
-# 🔬 Autopsy – Minor Project (Dec’24) (https://autopsy.streamlit.app/)
-
+# 🔬 Autopsy – Minor Project (Dec’24)
 **Project Title:**  
 **Prediction of Semiconductor Wavelengths from UV-Induced Color Emission**
 
